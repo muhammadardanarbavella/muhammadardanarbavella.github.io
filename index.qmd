@@ -1,0 +1,128 @@
+---
+title: "Melihat hubungan ekspor dan nilai tukar"
+subtitle: "Analisis pengaruh ekspor komoditi kopi indonesia ke negara jepang terhadap nilai tukar rupiah pada tahun 2011-2021"
+author: "Muhammad Ardan Arbavella"
+date: 2023-01-18
+number-sections: true
+format:
+  html: default
+  docx: default
+editor: visual
+---
+
+![](poltekapp.jpg)
+
+## Pendahuluan
+
+### Latar belakang
+
+Sebagai negara dengan ekonomi terbuka, Indonesia sangat bergantung pada perdagangan internasional untuk mendorong pertumbuhan ekonomi. Apridar mengungkapkan ada beberapa faktor yang dapat mendorong suatu negara untuk melakukan perdagangan internasional. Faktor-faktor ini meliputi kemampuan untuk memenuhi semua kebutuhan barang atau jasa dalam negeri karena kurangnya pasokan atau ketidakmampuan untuk menghasilkan produk tertentu untuk menghasilkan keuntungan. Peningkatan nilai tukar negara berbeda dalam pengelolaan teknologi.
+
+Pengaruh Ekspor kopi ke Negara jepang Terhadap Nilai Tukar Rupiah Ekspor kopi berpengaruh terhadap nilai tukar. hal tersebut sesuai dengan teori balance of payment, ekspor neto sering menjadi faktor yang dapat mendorong naik dan turunnya kurs mata uang suatu negara. Nilai koefisien ekspor sebesar 1.178e+02 berarti kenaikan perubahan ekspor neto mengakibatkan nilai kurs dolar terhadap masing-masing negara. Dengan hasil ini berarti pendapatan ekspor berpengaruh positif terhadap nilai tukar.
+
+### Ruang lingkup
+
+Pada penelitian ini komoditi unggulan perkebunan yang digunakan adalah kopi. Pada penelitian kopi ini variabel yang digunakan adalah harga pasar internasional. Selain itu digunakan variabel nilai tukar uang negara kompetitor yaitu nilai tukar uang negara jepang
+
+### Rumusan masalah
+
+Berdasarkan uraian latar belakang masalah diatas, maka terdapat beberapa indikator yang menjadi rumusan masalah dalam penelitian ini, adapun rumusan masalah tersebut adalah sebagai berikut: 1. Apakah nilai tukar rupiah berpengaruh terhadap nilai ekspor kopi Indonesiak ke negara jeapang tahun 2011 s.d 2021?
+
+### Tujuan dan manfaat penelitian
+
+Adapun yang menjadi tujuan dari penelitian ini adalah : 1. Untuk mengetahui dan menganalisis seberapa besar pengaruh ekspor komoditi kopi indonesia ke negara jepang terhadap nilai tukar rupiah pada tahun 2011-2021
+
+Adapun manfaat yang diperoleh dari penelitian ini adalah: 1. Bagi peneliti Bertambahnya ilmu pengetahuan dan wawasan terkait tema yang diteliti oleh peneliti. 2. Bagi Masyarakat Memberikan informasi kepada masyarakat mengenai pengaruh ekspor komoditi kopi indonesia ke negara jepang terhadap nilai tukar rupiah pada tahun 2011-2021
+
+## Studi pustaka
+
+Hadi (2001:59) mendefinisikan Neraca Pembayaran (BOP) sebagai catatan yang terorganisir secara sistematis dari semua transaksi ekonomi yang melibatkan perdagangan barang/jasa, transfer uang antara penduduk negara (penduduk) dan mereka yang tinggal di luar negeri (ekspatriat). Jangka waktu tertentu, biasanya satu tahun. Laporan pembayaran adalah catatan transaksi keuangan yang sistematis Penduduk suatu negara (penduduk) terjadi bersamaan dengan penduduk negara lain (non penduduk) dalam jangka waktu tertentu (Sugiyono, 2002). dalam kataDalam kasus lain, neraca biasanya mencatat nilai barang dan jasa serta jumlah modal bersih yang masuk dan keluar negara selama periode tertentu.dua belas bulan (Jackson, 2009).
+
+Menurut Apridar, bisnis internasional adalah bisnis itu penduduk negara bertindak dengan penduduk lain atas dasar untuk mengerti Populasi yang relevan mungkin di antara individu, antara individu dengan pemerintah negara atau pemerintah negara dengan pemerintah negara lain Bisnis internasional adalah sebuah proses Pertukaran barang dan jasa antara operator ekonomi di berbagai negara berbeda Ini pada dasarnya mengontrol operasi perdagangan internasional insentif yang sama dengan kegiatan komersial pada umumnya, yaitu keinginan untuk memperoleh keuntungan/keuntungan dari kegiatan tersebut. Di dalam Dalam teori keseimbangan ekonomi, pertanyaan tersebut melibatkan dua operasi, yaitu ekspor dan impor barang dan jasa 2 Kesediaan untuk berdagang hasil dari motif perbuatan, yaitu untuk memperoleh manfaat atau untuk.
+
+Perdagangan internasional terjadi karena dua alasan utama. Pertama, negara-negara di seluruh dunia terlibat dalam perdagangan internasional karena setiap negara memiliki latar belakang yang berbeda dan setiap negara dapat memperoleh keuntungan dengan melakukan sesuatu yang relatif lebih baik. Kedua, negara bertindak dengan sengaja Mencapai skala ekonomi dalam produksi. Jika setiap negara memproduksi barang tertentu dalam skala yang lebih besar, maka akan lebih efisien dibandingkan jika negara tersebut memproduksi semua jenis barang.
+
+Sebagai negara agraris, Indonesia memiliki potensi yang besar di bidang pertanian. Pertanian merupakan salah satu subsektor utamaada beberapa bahan baku yang belum dikembangkan dalam hal budidaya, pengolahan dan pemasaran. Tanaman merupakan barang ekspor, sehingga hasilnya sangat dipengaruhi daya saing bahan baku dan perubahan di dalam dan luar negeri. Oleh karena itu, penyusunan rencana pengembangan perkebunan sangat ditentukan oleh posisi komoditas perkebunan Indonesia dalam kaitannya dengan produksi dunia dan statusnya. Salah satu subsektor perkebunan yang berperan penting sebagai devisa adalah kopi. Kopi merupakan bahan penyegar berupa biji dari tanaman kopi. Saat ini minum kopi bukan hanya sekedar kebutuhan, namun sudah menjadi gaya hidup sebagian pecinta kopi, terbukti dengan banyaknya kafe yang bermunculan (Lempira, 2015).
+
+Ekspor kopi merupakan sumber devisa terbesar keempat setelah komoditas kelapa sawit, karet dan kakao. Karena Indonesia sebagai negara Sebagai produsen kopi terbesar dunia, ekspor kopi Indonesia terus meningkat meningkat setiap tahun. Ini tentu saja merupakan keuntungan besar penghasil devisa negara serta petani asli Indonesia, ekspor kopi Tahun 2014 Indonesia mencapai 385 ton dan akan terus bertambah setiap tahun. Jumlah tersebut merupakan jumlah biji kopi yang diekspor ke beberapa negara penting di dunia antara lain Amerika, Jerman dan negara-negara Eropa. Pada penelitian ini kami menggunakan negara jepang sebagai negara yang kami analisis.
+
+## Metode penelitian
+
+### Data
+
+| tahun | jepang              | indonesia      |
+|-------|---------------------|----------------|
+| 2011  | 224,955,934,476.000 | 26505587862000 |
+| 2012  | 187644054962        | 22109289969000 |
+| 2013  | 132,503,570,220.000 | 15612324390000 |
+| 2014  | 130,496,748,032.000 | 15375869184000 |
+| 2015  | 135,135,126,224.000 | 15922389288000 |
+| 2016  | 111,381,464,110.000 | 13123597695000 |
+| 2017  | 106,047,277,686.000 | 12495093507000 |
+| 2018  | 108,568,359,326.000 | 12792141687000 |
+| 2019  | 88228200550         | 10395548475000 |
+| 2020  | 72005207582         | 8484063159000  |
+| 2021  | 84251638478         | 9927007311000  |
+
+Jenis dan Sumber Data Data yang akan diolah dan dianalisis dalam penelitian ini adalah data ekspor Kopi tahun 2011-2021 dan merupakan data sekunder, yaitu data yang telah diolah pihak lain sebelumnya dari instansi yang berwenang dan terkait dengan sektor moneter yaitu Badan Pusat Statistik serta jurnal-jurnal ilmiah, website di internet, artikel dan literatur-literatur yang relevan dalam penelitian ini.
+
+### Metode analisis
+
+Metode analisis yang digunakan dalam penelitian ini adalah teknik kuantitatif dan penjabaran deskriptif. Teknik analisis kuantitatif merupakan analisis yang dilakukan dengan perhitungan angka-angka yang faktor yang mempengaruhi indeks nilai tukar rupiah terhadap Yen jepang yaitu nilai ekspor kopi Indonesia ke negara jepang. Pendekatan yang digunakan adalah kuantitatif dengan mengaplikasikan model regresi linier Secara spesifik model tersebut dapat disajikan sebagai berikut:
+
+Yi=β0+β1Xi+μi
+
+Dimana: Yi adalah nilai tukar USD terhadap mata uang negara lain., β0 adalah koefisien konstanta; β1 adalah parameter; Xi adalah nilai ekspor dan μi adalah error term.
+
+## Pembahasan
+
+### Pembahasan masalah
+
+| X (jepang)  | y(indonesia) |
+|-------------|--------------|
+| 2.24956E+11 | 2,65056E+13  |
+| 1,87644E+11 | 2,21093E+13  |
+| 1,32504E+11 | 1,56123E+13  |
+| 1,30497E+11 | 1,53759E+13  |
+| 1,35135E+11 | 1,59224E+13  |
+| 1,11381E+11 | 1,31236E+13  |
+| 1,06047E+11 | 1,24951E+13  |
+| 1,08568E+11 | 1,27921E+13  |
+| 88228200550 | 1,03955E+13  |
+| 72005207582 | 8,48406E+12  |
+| 84251638478 | 9,92701E+12  |
+
+Ekspor kopi Indonesia ke Jepang pada Januari 2021 sebesar USD 6,11 juta atau naik 14,43% dari periode yang sama tahun lalu. Sedangkan ekspor kopi Indonesia ke Jepang pada 2020 sebesar 56,04 juta dollar US, turun 9,98 % dalam lima tahun terakhir (2016-2020).Padahal Indonesia merupakan penghasil kopi terbesar keempat di dunia setelah Brazil, Vietnam dan Kolombia. tetapi berada di urutan ke-9 di dunia untuk ekspor, mencakup 3 persen permintaan dunia pada tahun 2019.
+
+### Analisis masalah
+
+Hasil regresinya adalah
+
+```{r}
+library(readxl)
+library('tidyverse')
+dat<-read_excel('latihan1.xlsx')
+reg1<-lm(Y~X,data=dat)
+summary(reg1)
+
+```
+
+berdasarkan output di atas, model regresinya bisa dilihat dari bagian estimate, yaitu y = -7.067e - 03 + 1.178e+2. dari uji parsial dengan t-value sebesar 3.691e+15 dan p-value\< 2.2e-16 dimana tingkat signifikansi yang digunakan adalah 0.05, memberikan hasil tolak H0: β1=0 artinya variabel X (Nilai tukar uang jepang) secara signifikan berpengaruh terhadap model.
+
+Nilai koefisien regresi dari X sebesar 1.178e+02 dapat kita interpretasikan bahwa setiap kenaikan nilai tukar uang X (nilai tukar uang jepang), maka nilai Y (nilai tukar uang indonesia) akan naik sebesar 1.178e+02
+
+## Kesimpulan
+
+Berdasarkan data yang diperoleh beberapa hasil penelitian dan pembahasan. Uraian hasil penelitian dan pembahasan tertuang dalam simpulan. Berikut kesimpulan dari penelitian mengenai volume ekspor kopi Indonesia ke negara jepang sebagai berikut: 1. Variabel Kurs Rupiah mempunyai hubungan positif dan berpengaruh sedikit terhadap volume ekspor kopi Indonesia di negara jepang 2. Ekspor kopi ke Jepangselama 10 tahun terakhir yaitu dari tahun 2011-2021 cenderung berfluktuatif dan mengalami penurunan yang cukup signifikan di tahun 2018 baik volume maupun nilai ekspornya.
+
+## saran
+
+Diharapkan pemerintah lebih memperhatikan kegiatan ini perkembangan industri kopi. Karena kopi memiliki potensi yang besar dalam perekonomian nasional. Salah satu aspek yang perlu diperhatikan adalah Menjaga ketersediaan bahan baku dan barang modal serta stabilitas harga barang modal paling kompetitif dengan harga internasional, yang dapat dilakukan dengan diskon Bea masuk, sehingga lebih mudah untuk mendapatkan lisensi dan izin ekspor Impor dan transparansi peraturan ekspor dan impor.
+
+## Referensi
+
+Nopriyandi, R., & Haryadi, H. (2017). Analisis ekspor kopi Indonesia. Jurnal Paradigma Ekonomika, 12(1), 1--10. https://doi.org/10.22437/paradigma.v12i1.3929
+
+Ginting, A. M. (2017). ANALISIS PENGARUH EKSPOR TERHADAP PERTUMBUHAN EKONOMI INDONESIA. Buletin Ilmiah Litbang Perdagangan, 11(1), Art. 1. https://doi.org/10.30908/bilp.v11i1.185
+
+Jamilah, M., Yulianto, E., & Mawardi, M. K. (t.t.). PENGARUH NILAI TUKAR RUPIAH, HARGA KOPI INTERNASIONAL DAN PRODUKSI KOPI DOMESTIK TERHADAP VOLUME EKSPOR KOPI INDONESIA (Studi Volume Ekspor Kopi Periode 2009 -- 2013).
